@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi, I am Saira Khan 👋
 
-<!--
-**moonsweety503-code/moonsweety503-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me 
+- Student in BS (Data Science)
+- Currently learning Python and Machine Learning
 
-Here are some ideas to get you started:
+## Skills 
+- Python (Intermediate)
+- Basic Programing
+- Micrsoft Basic (Excel, Powerpoint, Word)
+- Typing 32 WPM max
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects 
+- BMI
+
+## Goals
+- Become a Data Scientist
+- Study abroad for higheer education
+- Working for people 
+
